@@ -1,6 +1,6 @@
 export interface PokemonResult{
     name: string;
-    urls: string;
+    url: string;
 }
 export interface PokemonData{
     id: number;
